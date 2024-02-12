@@ -10,7 +10,11 @@
     <!-- Define project metadata -->
     <name>webapp</name>
     <description>A basic Java project</description>
-
+         
+    <plugin>
+  <artifactId>maven-war-plugin</artifactId>
+  <version>3.0.0</version>
+</plugin>
     <!-- Define project dependencies -->
     <dependencies>
         <dependency>
