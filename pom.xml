@@ -8,7 +8,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <!-- Define project metadata -->
-    <name>My Project</name>
+    <name>webapp</name>
     <description>A basic Java project</description>
 
     <!-- Define project dependencies -->
